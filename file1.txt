@@ -1,9 +1,2 @@
-1 - 2 - Good Bye!- proverka (ssh)
-
-Local change user1 !!!
-
-
-another Line from user1 !!!
-
-Line from user2 !!!
+LINE FROM USER 1 ! ! !
 
